@@ -1,6 +1,7 @@
-## NAME    :- Lohith B R
-## USN     :- 4AL22CS081
-## SEM/SEC :- 6th Sem / B-Sec
+# Advanced-java
+NAME    :- Lohith B R
+USN     :- 4AL22CS081
+SEM/SEC :- 6th Sem / B-Sec
 
 
 ## 1a. ListOperations :
@@ -22,9 +23,13 @@
 ## 1c.linked_list:
 
 🔗 DisplayElementsWithPositions.java :- [Output Screenshot](https://github.com/lohithrace21/Advanced-java/blob/main/EXP-1_List_Operations/1b_Linked_list/Screenshot-1c_DisplayElementsWithPositions.png)
+
 🔗InsertAtEndExample.java:- [Output Screenshot](https://github.com/lohithrace21/Advanced-java/blob/main/EXP-1_List_Operations/1b_Linked_list/Screenshot-1c_InsertAtEndExample.png)
+
 🔗LinkedListIterationExample.java:- [Output Screenshot](https://github.com/lohithrace21/Advanced-java/blob/main/EXP-1_List_Operations/1b_Linked_list/Screenshot-1c_LinkedListIterationExample.png)
+
 🔗ReverseLinkedListIteration.java:- [Output Screenshot](https://github.com/lohithrace21/Advanced-java/blob/main/EXP-1_List_Operations/1b_Linked_list/Screenshot-1c_ReverseLinkedListIteration.png)
+
 🔗SwapElementsExample.java:- [Output Screenshot](https://github.com/lohithrace21/Advanced-java/blob/main/EXP-1_List_Operations/1b_Linked_list/Screenshot-1c_SwapElementsExample.png)
 
 ## 3a-StringoperationDemo:
