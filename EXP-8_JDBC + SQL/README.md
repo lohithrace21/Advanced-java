@@ -1,6 +1,6 @@
 ## EXP-8_JDBC+SQL:
 
-🔗 MySql_Setup :- [Output Screenshot](https://github.com/lohithrace21/Advanced-java/blob/main/EXP-8_JDBC%20%2B%20SQL/MySql_Setup)
+🔗 MySql_Setup :- [Link](https://github.com/lohithrace21/Advanced-java/blob/main/EXP-8_JDBC%20%2B%20SQL/MySql_Setup)
 
 ## 8a_Insert_Coffee:
 
